@@ -12,7 +12,7 @@ import qeds
 bagel = pd.DataFrame({
     "City" : ["Montreal","Montreal","Montreal", "Montreal", "Montreal","Montreal","New York", "New York", "New York", "New York", "New York", "New York"],
     "BagelProduced" : [5, 10, 20, 25, 30, 35, 3, 13, 23, 23, 33, 33],
-    "Year": [2016, 2017, 2018, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+    "Year": [2020, 2021, 2022, 2023, 2024, 2025, 2020, 2021, 2022, 2023, 2024, 2025]
 })
 
 # Look at dataframe
